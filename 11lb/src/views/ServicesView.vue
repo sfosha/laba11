@@ -3,24 +3,20 @@
     <h1>Наши услуги</h1>
     <div class="service-list">
       <div class="service-item">
-        <h2>Веб-разработка</h2>
-        <p>Создание современных веб-сайтов и приложений</p>
+        <h2>Услуга1</h2>
+        <p>Оп1</p>
       </div>
       <div class="service-item">
-        <h2>Дизайн</h2>
-        <p>Разработка уникального дизайна для вашего бизнеса</p>
+        <h2>Услуга2</h2>
+        <p>Оп2</p>
       </div>
       <div class="service-item">
-        <h2>Поддержка</h2>
-        <p>Техническая поддержка и сопровождение проектов</p>
+        <h2>Услуга3</h2>
+        <p>Оп3</p>
       </div>
     </div>
   </div>
 </template>
-
-<script setup>
-// Логика компонента
-</script>
 
 <style scoped>
 .services {
